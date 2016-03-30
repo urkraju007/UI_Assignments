@@ -1,0 +1,15 @@
+Q. What is ng-app?
+   It is a directive which tells that the particular element is an owner of Angular Js application.
+
+Q. What are expressions in AngularJS?
+   Expressions are used to bind data in Angular js.
+   AngularJS expressions can be written inside double braces. Ex: {{}}
+
+Q. What is strict mode in Javascript?
+   strict mode is used to define or state that javascript code should be executed in strict mode which means syntax will be checked thoroughly.
+   The following things will raise an error used in strict mode when compared to normal script code 
+	1. Using a variable and objects without its declaration is not allowed.
+	2. deleting the functions and its parameters is not allowed
+	3. octal numerics and escape characters are not allowed. 
+	4. writing to read-only and get-only property is not allowed. 
+	5. usuage of reserved keywords is not allowed. 
